@@ -1,0 +1,22 @@
+{
+  "name": "akirael/hello-otus",
+  "description": "testing create extension",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hello\\": "src/"
+    }
+  },
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Aleksandr Borisov",
+      "email": "borisov.aleksandr.al@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT"
+}
